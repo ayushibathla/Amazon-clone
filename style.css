@@ -1,7 +1,9 @@
 * {
     margin: 0;   
     font-family: Arial;
-    border: border-box;  
+    border: border-box;
+    display: flex;
+    flex-direction: column;  
 }
 .navbar {
     height: 60px;
